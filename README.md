@@ -17,5 +17,5 @@ Ci-dessous la répartition des différents modules :
 Notre partie concerne le module 2 partie web et Desktop
 le projet est réalisé par : 
 --------------------------------------------------------------------------------
-  --SEFIANE OUAMI --FAOUZI ESSDOUKI -- OSSAMA ELMORABET -- AYOUB CHERCHAOUI
+  --SEFIANE OUAMI --FAOUZI ESSDOUKI -- OSSAMA ELMORABET -- AYOUB CHARCHAOUI
 ---------------------------------------------------------------------------------
